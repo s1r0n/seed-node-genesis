@@ -1,8 +1,39 @@
 # The Enough is Enough Pledge
 
-This repository hosts the "Enough is Enough" pledge—a public commitment to move from endless accumulation to conscious healing and connection. By declaring a personal income cap and routing surplus to dedicated [Repair Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund) and [Regeneration Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund), participants actively dismantle the growth-at-all-costs paradigm. 
+This repository hosts the [Lightning Path](https://spiritwiki.lightningpath.org/index.php/Lightning_Path) "Enough is Enough" pledge—a public commitment to move from endless accumulation to conscious healing and connection. By declaring a personal income cap and routing surplus to dedicated [Repair Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund) and [Regeneration Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund), participants actively dismantle the growth-at-all-costs paradigm. 
+
+## The Philosophy
+
+By creating a pledge here, you are making a conscious choice to:
+
+*   **Reject the Infinite Growth Paradigm:** Acknowledge that personal and planetary well-being requires sufficiency, not endless accumulation.
+*   **Embrace a Dual-Mandate:** Address both the wounds of the past (**Repair**) and the need to build resilient, connected futures (**Regeneration**).
+*   **Operate with Radical Transparency:** Make your commitment and its execution visible and accountable through public ledgers.
+*   **Build a New Pattern:** Create a replicable model for using capital as a tool for connection, not disconnection.
 
 Through transparent ledgers and community accountability, we're building a practical framework for economic transformation that prioritizes human and planetary well-being over perpetual expansion.
+
+## How to Join the Movement
+
+### 1. Fork and Setup
+Fork this repository to your own GitHub account. You will be working within your fork to create your pledge.
+
+### 2. Create Your Pledge Directory
+In the `pledges` directory, create a new folder named with your GitHub username (e.g., `pledges/octocat/`).
+
+### 3. Populate Your Files
+Copy the templates from the `templates` directory into your new folder and personalize them.
+
+| File | Purpose |
+| :--- | :--- |
+| `pledge.md` | Your personal declaration and "Enough Number." |
+| `repair-fund-charter.md` | This fund is for direct restitution and healing. It addresses the harm caused by the extractive economy. Think of it as "composting" the damage of the past. Its focus is on **justice and healing**.<br>*Examples:* Supporting indigenous land back initiatives, funding community reparations projects, providing direct aid to those impacted by ecological disaster, supporting worker advocacy groups. |
+| `regeneration-fund-charter.md` | This fund is for building the new. It invests in the infrastructure, models, and mindsets of a connected, life-affirming future. Its focus is on **resilience and creation**.<br>*Examples:* Funding community land trusts, investing in open-source public interest technology, supporting regenerative agriculture projects, funding cooperative business start-ups. |
+| `repair-fund-ledger.csv` | The transparent ledger for all Repair Fund transactions. |
+| `regeneration-fund-ledger.csv` | The transparent ledger for all Regeneration Fund transactions. |
+
+### 4. Commit and Propose
+Commit your changes to your fork and submit a Pull Request to the main repository. Once merged, your pledge will be listed below on the [Pledges](./pledges.html) page.
 
 **License: GPL v3.0**  
 This is not a product. It is a protocol. You cannot own it. You can only fork it, improve it, and keep it open.
