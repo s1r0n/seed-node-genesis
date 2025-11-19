@@ -1,10 +1,4 @@
-# Repair Fund Governance: Node 0 (Primordial)
-
-**Version:** 0.1  
-**Status:** This is an experiment. We expect it to fail and be forked.  
-**License:** GPL v3.0 (applies to this doc and all allocations)
-
----
+# Governance
 
 ## 1. Core Principle: No Governance by Default
 
@@ -14,7 +8,7 @@ This node is not governed by a board, a DAO, or a foundation. **It is governed b
 
 ## 2. The Repair Rubric (Allocation Criteria)
 
-Every disbursement must score ≥7/10 on this public matrix. Add a comment in the allocation issue with the score.
+Every disbursement (payment made from the [Repair Fund](https://spiritwiki.lightningpath.org/index.php/Repair_Fund) or [Regeneration Fund](https://spiritwiki.lightningpath.org/index.php/Regeneration_Fund) must score ≥7/10 on this public matrix. Add a comment in the allocation issue with the score.
 
 | Dimension | Points | How to Verify |
 |-----------|--------|---------------|
@@ -43,21 +37,7 @@ Every disbursement must score ≥7/10 on this public matrix. Add a comment in th
 
 ---
 
-## 4. The Enough Pledge (Becoming a Signatory)
-
-**How to take it:**
-1. Fill out **[this public form]** with:
-   - Name/alias
-   - Your Enough threshold (e.g., "$75K/year")
-   - Proof: Link to a Google Sheet showing your burn calculation (or a screenshot with redacted personal info)
-2. We list you in `PLEDGES.md` in this repo
-3. You gain 3x comment weight on allocations
-
-**Your obligation:** Route overflow to this or any other Repair Fund node. If you stop, we remove your 3x weight (but keep your name in the archive with an `inactive` tag).
-
----
-
-## 5. Transparency (No Dashboard, Just GitHub)
+## 4. Transparency (No Dashboard, Just GitHub)
 
 - **Balance:** Balance is tweeted whenever it changes (from holding cell account). Tweet includes last 4 digits of account number. No API, just manual.
 - **Velocity:** Measured in hours from deposit to disbursement. Published in `LOC.md` (Ledger of Capital). Target: &lt;168 hours.
@@ -66,7 +46,7 @@ Every disbursement must score ≥7/10 on this public matrix. Add a comment in th
 
 ---
 
-## 6. Node Maintainer Role (Temporary, Rotating)
+## 5. Node Maintainer Role (Temporary, Rotating)
 
 **Current Maintainers:** Mike Sosteric
 **Term:** Until someone forks or we hit $50K total inflow. At $50K, we **must** either:
