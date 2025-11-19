@@ -1,0 +1,9 @@
+title: "Enough is Enough"
+description: "A public pledge to move from accumulation to connection"
+theme: just-the-docs
+
+url: "https://s1r0n.github.io" # Replace with your actual GitHub Pages URL
+
+aux_links:
+  "View on GitHub":
+    - "//github.com/s1r0n/seed-note-genesis" # Replace with your actual repo URL
