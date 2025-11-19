@@ -1,4 +1,8 @@
-# seed-node-genesis
+# The Enough is Enough Pledge
+
+This repository hosts the "Enough is Enough" pledge—a public commitment to move from endless accumulation to conscious healing and connection. By declaring a personal income cap and routing surplus to dedicated [Repair Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund) and [Regeneration Funds](https://spiritwiki.lightningpath.org/index.php/Repair_Fund), participants actively dismantle the growth-at-all-costs paradigm. 
+
+Through transparent ledgers and community accountability, we're building a practical framework for economic transformation that prioritizes human and planetary well-being over perpetual expansion.
 
 **License: GPL v3.0**  
 This is not a product. It is a protocol. You cannot own it. You can only fork it, improve it, and keep it open.
