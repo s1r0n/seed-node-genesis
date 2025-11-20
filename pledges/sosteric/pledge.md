@@ -6,18 +6,18 @@ parent: List of Pledges
 
 # The Pledge
 
- **Mike Soseric** (Founder)  
+ **Mike Sosteric** (Founder)  
   Household: [Example 5 dependents, 1 disabled adult, 3 kids in school, 1 business seed]  
   Annual Needs: $245,000 (care, education, housing, operations, business runway)  
   Enough Cap: $245,000  
   Overflow: 100% above cap
   Directions: 
-  Proof: [Link to budget]  
+  Proof: [currently below cap]
   Date: 2025-11-20
 
-  ## My Declaration
+## My Declaration
 
-On [Date], I, [Your Name/GitHub Username], publicly declare that I have enough.
+On [Date], I, Mike Sosteric, publicly declare that I have enough.
 
 This figure represents my annual pre-tax income. I declare that this level of financial resource is sufficient to live a life of comfort, creativity, and contribution. Any surplus earned beyond this amount will be systematically routed to a [Generation Node](https://spiritwiki.lightningpath.org/Generation_Node) (50%) and a [Repair Node](https://spiritwiki.lightningpaht.org/Repair_Node) (50%). (you choose the allocation)
 
