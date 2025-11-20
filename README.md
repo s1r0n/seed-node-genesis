@@ -22,7 +22,7 @@ Fork this repository to your own GitHub account. You will be working within your
 In the `pledges` directory, create a new folder named with your GitHub username (e.g., `pledges/octocat/`).
 
 ### 3. Populate Your Files
-Copy the templates from the `templates` directory into your new folder and personalize them.
+Copy the pledge template from the `templates` directory into your new folder and personalize it.
 
 | File | Purpose |
 | :--- | :--- |
