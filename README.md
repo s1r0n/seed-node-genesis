@@ -35,6 +35,30 @@ Copy the pledge template from the `templates` directory into your new folder and
 ### 4. Commit and Propose
 Commit your changes to your fork and submit a Pull Request to the main repository. Once merged, your pledge will be listed below on the [Pledges](./pledges.html) page.
 
+
+### The Two Funds
+
+To effectively channel surplus, we recommend separating your capital into two distinct funds, each with a clear purpose:
+
+1.  **The Repair Fund:** This fund is for direct restitution and healing. It addresses the harm caused by the extractive economy. Think of it as "composting" the damage of the past. Its focus is on **justice and healing**.
+    *   *Examples:* Supporting indigenous land back initiatives, funding community reparations projects, providing direct aid to those impacted by ecological disaster, supporting worker advocacy groups.
+
+2.  **The Regeneration Fund:** This fund is for building the new. It invests in the infrastructure, models, and mindsets of a connected, life-affirming future. Its focus is on **resilience and creation**.
+    *   *Examples:* Funding community land trusts, investing in open-source public interest technology, supporting regenerative agriculture projects, funding cooperative business start-ups.
+
+### The Pledge Workflow
+
+1.  **Declare:** Set your "Enough Number" in `pledge.md`.
+2.  **Calculate:** Periodically (e.g., quarterly) calculate your surplus: `Income - Enough Number = Surplus`.
+3.  **Allocate:** Decide how to split your surplus between the Repair Fund and Regeneration Fund (e.g., 50/50, 70/30).
+4.  **Transfer:** Move the allocated funds to your real-world bank/brokerage accounts designated for each purpose.
+5.  **Deploy & Log:** Donate or invest the funds according to your charters and log every transaction in the respective CSV ledger with date, amount, recipient, and purpose.
+
+---
+
+*This is a prototype for a new economic practice. Last updated: {{ site.time | date: "%Y-%m-%d" }}*
+
+
 **License: GPL v3.0**  
 This is not a product. It is a protocol. You cannot own it. You can only fork it, improve it, and keep it open.
 
