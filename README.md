@@ -46,6 +46,17 @@ To effectively channel surplus, we recommend separating your capital into two di
 2.  **The Regeneration Fund:** This fund is for building the new. It invests in the infrastructure, models, and mindsets of a connected, life-affirming future. Its focus is on **resilience and creation**.
     *   *Examples:* Funding community land trusts, investing in open-source public interest technology, supporting regenerative agriculture projects, funding cooperative business start-ups.
 
+| Feature          | **Repair Node**                                   | **Regeneration Node**                           |
+| ---------------- | ------------------------------------------------- | ----------------------------------------------- |
+| **Purpose**      | External restitution                              | Internal development                            |
+| **Rubric**       | Repair Rubric (7/10 threshold)                    | Regeneration Rubric (8/10 threshold)            |
+| **Source**       | Overflow from Enough Pledge                       | Explicit development pledges, optional overflow |
+| **Governance**   | Weighted comments, 7-day issues                   | Same mechanism, separate repo                   |
+| **Funding LP?**  | **No** (except as community-controlled IRL space) | **Yes** (animations, curriculum, tools)         |
+| **Transparency** | Public ledger, monthly audit                      | Public ledger, monthly audit                    |
+| **License**      | GPL v3.0                                          | GPL v3.0                                        |
+
+
 ### The Pledge Workflow
 
 1.  **Declare:** Set your "Enough Number" in `pledge.md`.
