@@ -9,7 +9,7 @@ By creating a pledge here, you are making a conscious choice to:
 *   **Reject the Infinite Growth Paradigm:** Acknowledge that personal and planetary well-being requires sufficiency, not endless accumulation.
 *   **Embrace a Dual-Mandate:** Address both the wounds of the past (**Repair**) and the need to build resilient, connected futures (**Regeneration**).
 *   **Operate with Radical Transparency:** Make your commitment and its execution visible and accountable through public ledgers.
-*   **Build a New Pattern:** Create a replicable model for using capital as a tool for connection, not disconnection.
+*   **Build a New Pattern:** Create a replicable model for using capital as a tool for healing and connection, not enrichment and disconnection.
 
 Through transparent ledgers and community accountability, we're building a practical framework for economic transformation that prioritizes human and planetary well-being over perpetual expansion.
 
