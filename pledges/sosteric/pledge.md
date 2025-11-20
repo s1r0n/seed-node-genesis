@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sosteric Pledge
-parent: Enough is Enough
+parent: List of Pledges
 ---
 
 # The Pledge
