@@ -1,7 +1,7 @@
 ---
 layout: default
-title: [@your-username] Pledge
-#parent: Enough is Enough
+title: your-username Pledge
+parent: List of Pledges
 ---
 
 # The Pledge
